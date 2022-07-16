@@ -1,10 +1,10 @@
-import {Pen} from '../emojis/pen';
-import {Trash} from '../emojis/trash';
-import {Frown} from '../emojis/Frown';
-import {Smile} from '../emojis/smile';
-import {Neutral} from '../emojis/neutral';
+import {Pen} from '../../emojis/pen';
+import {Trash} from '../../emojis/trash';
+import {Frown} from '../../emojis/Frown';
+import {Smile} from '../../emojis/smile';
+import {Neutral} from '../../emojis/neutral';
 
-export default function Atividade(props) {
+export default function AtividadeItem(props) {
 
   function prioridadeLabel(param) {
     switch (param) {

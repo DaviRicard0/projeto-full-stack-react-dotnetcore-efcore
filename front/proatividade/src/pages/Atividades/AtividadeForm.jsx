@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import {Plus} from '../emojis/Plus';
+import {Plus} from '../../emojis/Plus';
 
 const atividadeInicial = {
   id: 0,
